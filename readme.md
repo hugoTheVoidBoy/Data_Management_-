@@ -19,5 +19,10 @@ This image shows the initial prompt where the user is asked to enter their choic
 This image presents the statistical information of the student records.
 
 ----
+To run this file, follow these steps:
+```bash
+git clone https://github.com/hugoTheVoidBoy/Data_Management_-
+g++ -o student_management.exe main.cpp
+student_management.exe
 
 
