@@ -1,6 +1,6 @@
 # Student Management System
 
-This project demonstrated my knowledge of C++ basics. The Student Management System is designed to manage student records. It allows users to insert, view, search, delete, update, sort, and display student information.
+This project is my first time learning C++ basics. The Student Management System is designed to manage student records. It allows users to insert, view, search, delete, update, sort, and display student information.
 
 ## Features
 
